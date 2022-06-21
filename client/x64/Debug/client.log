@@ -1,0 +1,18 @@
+﻿  client.cpp
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(79,20): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(79,20): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(82,20): warning C4477: “fprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(82,20): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(85,20): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(85,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(85,20): message : 缺失的可变参数 1 为格式字符串“%d”所需
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(88,20): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(88,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(88,20): message : 缺失的可变参数 1 为格式字符串“%d”所需
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(130,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(146,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(159,21): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\fujie\Desktop\project\c++_iocp\client\client.cpp(21,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fujie\Desktop\project\c++_iocp\client\client.cpp(22,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\fujie\Desktop\project\c++_iocp\client\TcpClient.hpp(66): warning C4715: “TcpClient::Connect”: 不是所有的控件路径都返回值
+  client.vcxproj -> C:\Users\fujie\Desktop\project\c++_iocp\x64\Debug\client.exe

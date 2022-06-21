@@ -1,0 +1,4 @@
+﻿  Worker.cpp
+C:\Users\fujie\Desktop\project\c++_iocp\c++_iocp\CallBack.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\fujie\Desktop\project\c++_iocp\c++_iocp\Worker.cpp(74,68): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+  c++_iocp.vcxproj -> C:\Users\fujie\Desktop\project\c++_iocp\x64\Debug\c++_iocp.exe
